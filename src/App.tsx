@@ -313,8 +313,8 @@ function App() {
               </h1>
 
               <p className="hero-lead">
-                I am Talahoubri Youcef, a third-year Systems Security Engineering
-                student at ENSTA, building reliable software foundations and
+                I am Talahoubri Youcef, Currently in 2nd Year of Second Cycle
+                building reliable software foundations and
                 studying the security architecture behind hardened, offline-first
                 environments.
               </p>
