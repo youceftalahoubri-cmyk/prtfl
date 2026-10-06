@@ -1,0 +1,59 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 1430 >>
+stream
+BT
+/F2 26 Tf 54 736 Td (Talahoubri Youcef) Tj
+/F1 12 Tf 0 -22 Td (Systems Security Engineering Student - ENSTA - Algiers, Algeria) Tj
+0 -18 Td (Email: youceftalahoubri@gmail.com | Phone: +213 663 686 297) Tj
+0 -18 Td (GitHub: github.com/youcef5546 | github.com/youceftalahoubri-cmyk) Tj
+/F2 15 Tf 0 -34 Td (Profile) Tj
+/F1 11 Tf 0 -18 Td (Third-year engineering student specializing in Systems Security, with interests in cybersecurity,) Tj
+0 -14 Td (networking, clean architecture, databases, and secure software delivery.) Tj
+/F2 15 Tf 0 -30 Td (Education) Tj
+/F1 11 Tf 0 -18 Td (Engineering Degree, 3rd Year - ENSTA, Ecole Nationale Superieure des Technologies Avancees) Tj
+0 -14 Td (Specialization: Systems Security) Tj
+/F2 15 Tf 0 -30 Td (Experience) Tj
+/F1 11 Tf 0 -18 Td (Institutional Discovery Internship - HDSS / WELLEDGE Technologies LLC - April 2026) Tj
+0 -14 Td (- Observed cybersecurity architecture in a petroleum engineering software company.) Tj
+0 -14 Td (- Network isolation through LAN-only environments.) Tj
+0 -14 Td (- Hardware-bound licensing with cryptographic key exchange.) Tj
+0 -14 Td (- Docker-based layered access control, ProGuard obfuscation, hardened Linux systems.) Tj
+/F2 15 Tf 0 -30 Td (Skills) Tj
+/F1 11 Tf 0 -18 Td (Programming: C, C++, Java, Kotlin, Jetpack Compose, Python, SQL) Tj
+0 -14 Td (Databases: MySQL, PostgreSQL) Tj
+0 -14 Td (Concepts: Cybersecurity, Networking, OOP, Clean Architecture, Git, GitHub) Tj
+/F2 15 Tf 0 -30 Td (Languages) Tj
+/F1 11 Tf 0 -18 Td (Arabic: Native | English: B2 | French: B2) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+0000000386 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1867
+%%EOF
